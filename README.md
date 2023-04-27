@@ -8,13 +8,6 @@ Juego tipo Arcade basado en Space Invaders y tematica de Super Mario Bros.
 
 [Mario Space Invasion](Link al video)](https://www.youtube.com/watch?v=re5h8HD_q58)
 
-
-### Caracteristicas técnicas
-
-* Python3.10 +
-* Pygame (biblioteca para desarrollar videojuegos con Python)
-* Probado en MacOs Ventura 
-
 #### Jugabilidad
 
 * Hay 4 tipos distitntos de enemigos.
@@ -24,4 +17,15 @@ Juego tipo Arcade basado en Space Invaders y tematica de Super Mario Bros.
 * Hay un enemigo que aparece de vez en cuando, es el que más puntos da.
 * La habilidad especial aparece despues de cierto número de puntos, la cual es "doble disparo".
 
+### Caracteristicas técnicas
 
+* Python3.10+
+* Pygame (biblioteca para desarrollar videojuegos con Python)
+* Probado en MacOs Ventura 
+
+### Requerimientos para ejecutar.
+
+* Permisos de administrador, pues se debe "compilar" el código.
+* Instalar la última versión de Pygame
+  * pip3 install pygame
+ 
